@@ -1,0 +1,17 @@
+file: churn_model_caret.rds
+file_size: 862549
+pin_hash: 2475884982c76777
+type: rds
+title: 'churn_model_caret: a pinned list'
+description: ~
+tags: ~
+urls: ~
+created: 20260513T140808Z
+api_version: 1
+user:
+  method: lr
+  cv_roc: 0.8269869
+  cv_sens: 0.2144243
+  cv_spec: 1.0
+  best_tune_str: 'alpha: 0.5, lambda: 0.01'
+  n_train: 3750
